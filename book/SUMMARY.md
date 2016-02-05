@@ -75,4 +75,5 @@ This is the summary of the PX4 dev guide.
   * [Indoor / Fake GPS](advanced-fake-gps.md)
   * [Camera Trigger](advanced-camera-trigger.md)
   * [EKF2 Log Replay](ekf2_log_replay.md)
+  * [Video streaming in QGC](advanced-videostreaming-qgc.md)
   * [Licenses](advanced-licenses.md)
